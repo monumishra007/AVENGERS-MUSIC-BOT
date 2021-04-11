@@ -8,7 +8,7 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 - Python 3.7 or higher 
 - Userbot Needs To Be Admin In The Chat
 - Install **ffmpeg**
-<img src="https://i.imgur.com/8S8NVy0.png" width="530" height="400">
+<img src="https://telegra.ph/file/55808dcda63d255595f96.jpg" width="530" height="400">
 
 # How To Host
 The easiest way to deploy this Bot
