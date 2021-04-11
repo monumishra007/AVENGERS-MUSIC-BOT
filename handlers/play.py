@@ -174,7 +174,7 @@ async def jiosaavn(client: Client, message_: Message):
     await res.delete()
     m = await client.send_photo(
         chat_id=message_.chat.id,
-        caption=f"Playing {sname} Via [Jiosaavn](https://t.me/TeLeTiPsOfficialOnTopicChat)",
+        caption=f"Playing {sname} Via [Jiosaavn](https://t.me/avengers_help)",
         photo="final.png",
     )
     os.remove("final.png")
