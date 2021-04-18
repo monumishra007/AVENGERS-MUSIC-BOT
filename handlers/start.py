@@ -12,7 +12,7 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>Hello {message.from_user.first_name}!
 I am AVENGERS-MUSIC-BOT  VC Music Player, an open-source bot that lets you play music in your Telegram groups.
-My music assistant ☺️ - @avengersmusicassistent
+My music assistant ☺️ - @avengers_music_assistent
 Maintained by @monumishra007 ❤
 For source code Join our support group @avengers_help.
 Use the buttons below to know more about me.
